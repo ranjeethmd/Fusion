@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="quick-start.Gateway/quick-start.Gateway.csproj" />
+  <Project Path="quick-start.Orders/quick-start.Orders.csproj" />
+  <Project Path="quick-start.Products/quick-start.Products.csproj" />
+</Solution>
