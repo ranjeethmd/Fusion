@@ -21,8 +21,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\AspireFusion\AspireFusion.ServiceDefaults\AspireFusion.ServiceDefaults.csproj" />
-  </ItemGroup>
-
 </Project>
