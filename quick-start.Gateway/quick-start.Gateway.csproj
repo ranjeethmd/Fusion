@@ -11,4 +11,8 @@
     <PackageReference Include="HotChocolate.Fusion" Version="15.1.12" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\AspireFusion\AspireFusion.ServiceDefaults\AspireFusion.ServiceDefaults.csproj" />
+  </ItemGroup>
+
 </Project>
